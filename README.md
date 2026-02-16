@@ -2,7 +2,7 @@
 
 A premium, secure, and scalable dashboard application built with Next.js 15 and FastAPI.
 
-![Dashboard Preview](https://via.placeholder.com/1200x600?text=NexusVault+Dashboard)
+
 
 ## 🚀 Key Features
 
@@ -55,10 +55,6 @@ npm run dev
 ```
 The app will open at `http://localhost:3000`.
 
-## 🧪 API Documentation
-Once the backend is running, visit:
-*   **Swagger UI:** `http://localhost:8000/docs`
-*   **ReDoc:** `http://localhost:8000/redoc`
 
 ## 🔒 Security Measures
 *   **Password Hashing:** Uses Bcrypt for secure password storage.
@@ -72,4 +68,4 @@ Once the backend is running, visit:
 *   **Modular Code:** Separated routers (`auth`, `tasks`) and components for maintainability.
 
 ---
-**Author:** [Your Name]
+**Author:** [Arvind Padyachi]
